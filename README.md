@@ -43,6 +43,20 @@ Task-1-Data-Analysis/
 py analysis.py
 ```
 
+## Output
+
+### Bar Chart
+
+![Bar Chart](images/bar_chart.png)
+
+### Scatter Plot
+
+![Scatter Plot](images/scatter_plot.png)
+
+### Heatmap
+
+![Heatmap](images/heatmap.png)
+
 ## 👨‍💻 Author
 
 **Mohan Srimanth Talla**
